@@ -3,3 +3,4 @@ E:\C#补充学习\CSharpBasicLearn\索引器\bin\Debug\索引器.exe
 E:\C#补充学习\CSharpBasicLearn\索引器\bin\Debug\索引器.pdb
 E:\C#补充学习\CSharpBasicLearn\索引器\obj\Debug\索引器.exe
 E:\C#补充学习\CSharpBasicLearn\索引器\obj\Debug\索引器.pdb
+E:\C#补充学习\CSharpBasicLearn\索引器\obj\Debug\索引器.csprojResolveAssemblyReference.cache

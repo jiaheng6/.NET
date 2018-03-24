@@ -1,0 +1,5 @@
+E:\C#补充学习\CSharpBasicLearn\静态类和静态方法\bin\Debug\静态类和静态方法.exe.config
+E:\C#补充学习\CSharpBasicLearn\静态类和静态方法\bin\Debug\静态类和静态方法.exe
+E:\C#补充学习\CSharpBasicLearn\静态类和静态方法\bin\Debug\静态类和静态方法.pdb
+E:\C#补充学习\CSharpBasicLearn\静态类和静态方法\obj\Debug\静态类和静态方法.exe
+E:\C#补充学习\CSharpBasicLearn\静态类和静态方法\obj\Debug\静态类和静态方法.pdb
