@@ -15,8 +15,11 @@ namespace 索引器
             //Console.WriteLine(nums[2]);
             Person p = new Person();
             Console.WriteLine(p[2]);
+            Dictionary<string,string>dic = new Dictionary<string,string>();//键值对字典
+            dic.Add("小黑","好黑呀");
+            Console.WriteLine(dic["小黑"]); //输出“好黑呀”
             Console.ReadKey();
-        }List<int>
+        }
     }
     public class Person 
     {
