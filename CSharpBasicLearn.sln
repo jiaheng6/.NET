@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "命名空间的使用", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "动物类继承案例", "动物类继承案例\动物类继承案例.csproj", "{B198A00F-F5F4-447D-B07A-DB936DD218E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "索引器", "索引器\索引器.csproj", "{99404F63-CF35-4706-8ED2-D0B0E0F6DC84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{B198A00F-F5F4-447D-B07A-DB936DD218E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B198A00F-F5F4-447D-B07A-DB936DD218E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B198A00F-F5F4-447D-B07A-DB936DD218E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99404F63-CF35-4706-8ED2-D0B0E0F6DC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99404F63-CF35-4706-8ED2-D0B0E0F6DC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99404F63-CF35-4706-8ED2-D0B0E0F6DC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99404F63-CF35-4706-8ED2-D0B0E0F6DC84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
