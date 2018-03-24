@@ -1,0 +1,1 @@
+C:\Users\Luocheng\Desktop\C#补充学习\CSharpBasicLearn\命名空间的使用\bin\Debug\命名空间的使用.exe.config
