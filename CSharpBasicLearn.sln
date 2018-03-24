@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp程序结构", "CShar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "输出命令行参数个数及各参数内容", "输出命令行参数个数及各参数内容\输出命令行参数个数及各参数内容.csproj", "{41839051-61FB-4502-BB58-D381369ACDD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "命名空间的使用", "命名空间的使用\命名空间的使用.csproj", "{AEEEFF31-5F63-419D-8551-07E60991D48E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "动物类继承案例", "动物类继承案例\动物类继承案例.csproj", "{B198A00F-F5F4-447D-B07A-DB936DD218E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{41839051-61FB-4502-BB58-D381369ACDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41839051-61FB-4502-BB58-D381369ACDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41839051-61FB-4502-BB58-D381369ACDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEEEFF31-5F63-419D-8551-07E60991D48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEEFF31-5F63-419D-8551-07E60991D48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEEFF31-5F63-419D-8551-07E60991D48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEEFF31-5F63-419D-8551-07E60991D48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B198A00F-F5F4-447D-B07A-DB936DD218E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B198A00F-F5F4-447D-B07A-DB936DD218E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B198A00F-F5F4-447D-B07A-DB936DD218E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B198A00F-F5F4-447D-B07A-DB936DD218E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
