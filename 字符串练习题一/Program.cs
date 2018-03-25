@@ -28,25 +28,29 @@ namespace 字符串练习题一
             Console.WriteLine(b); */
            #endregion
 
+            #region 第二种方法：自定义数组元素交换方法
             Console.WriteLine("请输入字符串：");
             string msg = Console.ReadLine();
             string msgs = ChangeString(msg);
-            Console.WriteLine(msgs);
+            Console.WriteLine(msgs); 
+            #endregion
         }
-       
 
+
+        #region 数组元素交换方法
         private static string ChangeString(string msg)
         {
             //把字符串转成字符数组
             char[] chs = msg.ToCharArray();
             char temp;
-            for (int i = 0; i < chs.Length/2; i++)//只需要转换数组长度的一半的次数
+            for (int i = 0; i < chs.Length / 2; i++)//只需要转换数组长度的一半的次数
             {
                 temp = chs[i];
                 chs[i] = chs[chs.Length - 1 - i];
                 chs[chs.Length - 1 - i] = temp;
             }
             return new string(chs);
-        }
+        } 
+        #endregion
     }
 }

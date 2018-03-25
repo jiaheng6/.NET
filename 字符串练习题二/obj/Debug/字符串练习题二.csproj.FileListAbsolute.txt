@@ -1,0 +1,6 @@
+E:\C#补充学习\CSharpBasicLearn\字符串练习题二\bin\Debug\字符串练习题二.exe.config
+E:\C#补充学习\CSharpBasicLearn\字符串练习题二\bin\Debug\字符串练习题二.exe
+E:\C#补充学习\CSharpBasicLearn\字符串练习题二\bin\Debug\字符串练习题二.pdb
+E:\C#补充学习\CSharpBasicLearn\字符串练习题二\obj\Debug\字符串练习题二.exe
+E:\C#补充学习\CSharpBasicLearn\字符串练习题二\obj\Debug\字符串练习题二.pdb
+E:\C#补充学习\CSharpBasicLearn\字符串练习题二\obj\Debug\字符串练习题二.csprojResolveAssemblyReference.cache
