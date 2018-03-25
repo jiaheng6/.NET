@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "值类型引用类型", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串", "字符串\字符串.csproj", "{0CE65D19-CF3C-46D5-8DA8-8145343944C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串练习题一", "字符串练习题一\字符串练习题一.csproj", "{4FC21E8B-867C-437C-A073-8D2308CD99B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{0CE65D19-CF3C-46D5-8DA8-8145343944C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CE65D19-CF3C-46D5-8DA8-8145343944C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CE65D19-CF3C-46D5-8DA8-8145343944C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC21E8B-867C-437C-A073-8D2308CD99B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC21E8B-867C-437C-A073-8D2308CD99B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC21E8B-867C-437C-A073-8D2308CD99B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC21E8B-867C-437C-A073-8D2308CD99B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
