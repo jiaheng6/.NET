@@ -1,0 +1,6 @@
+E:\C#补充学习\CSharpBasicLearn\字符串\bin\Debug\字符串.exe.config
+E:\C#补充学习\CSharpBasicLearn\字符串\bin\Debug\字符串.exe
+E:\C#补充学习\CSharpBasicLearn\字符串\bin\Debug\字符串.pdb
+E:\C#补充学习\CSharpBasicLearn\字符串\obj\Debug\字符串.exe
+E:\C#补充学习\CSharpBasicLearn\字符串\obj\Debug\字符串.pdb
+E:\C#补充学习\CSharpBasicLearn\字符串\obj\Debug\字符串.csprojResolveAssemblyReference.cache

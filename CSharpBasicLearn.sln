@@ -15,7 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "索引器", "索引器\索�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "静态类和静态方法", "静态类和静态方法\静态类和静态方法.csproj", "{6372058E-AF98-4E3A-A89D-442743C7C88F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "值类型引用类型和字符串", "值类型引用类型和字符串\值类型引用类型和字符串.csproj", "{38AEA597-0339-49D8-9B24-AD44B5EEA717}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "值类型引用类型", "值类型引用类型和字符串\值类型引用类型.csproj", "{38AEA597-0339-49D8-9B24-AD44B5EEA717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串", "字符串\字符串.csproj", "{0CE65D19-CF3C-46D5-8DA8-8145343944C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{38AEA597-0339-49D8-9B24-AD44B5EEA717}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38AEA597-0339-49D8-9B24-AD44B5EEA717}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38AEA597-0339-49D8-9B24-AD44B5EEA717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE65D19-CF3C-46D5-8DA8-8145343944C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE65D19-CF3C-46D5-8DA8-8145343944C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE65D19-CF3C-46D5-8DA8-8145343944C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE65D19-CF3C-46D5-8DA8-8145343944C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
