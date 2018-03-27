@@ -13,6 +13,5 @@ E:\C#补充学习\CSharpBasicLearn\CSharpBasicLearn\obj\Debug\CSharpBasicLearn.p
 C:\Users\Administrator\Desktop\.NET\CSharpBasicLearn\bin\Debug\CSharpBasicLearn.exe.config
 C:\Users\Administrator\Desktop\.NET\CSharpBasicLearn\bin\Debug\CSharpBasicLearn.exe
 C:\Users\Administrator\Desktop\.NET\CSharpBasicLearn\bin\Debug\CSharpBasicLearn.pdb
-C:\Users\Administrator\Desktop\.NET\CSharpBasicLearn\obj\Debug\CSharpBasicLearn.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\.NET\CSharpBasicLearn\obj\Debug\CSharpBasicLearn.exe
 C:\Users\Administrator\Desktop\.NET\CSharpBasicLearn\obj\Debug\CSharpBasicLearn.pdb

@@ -7,6 +7,5 @@ E:\C#补充学习\CSharpBasicLearn\静态类和静态方法\obj\Debug\静态类�
 C:\Users\Administrator\Desktop\.NET\静态类和静态方法\bin\Debug\静态类和静态方法.exe.config
 C:\Users\Administrator\Desktop\.NET\静态类和静态方法\bin\Debug\静态类和静态方法.exe
 C:\Users\Administrator\Desktop\.NET\静态类和静态方法\bin\Debug\静态类和静态方法.pdb
-C:\Users\Administrator\Desktop\.NET\静态类和静态方法\obj\Debug\静态类和静态方法.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\.NET\静态类和静态方法\obj\Debug\静态类和静态方法.exe
 C:\Users\Administrator\Desktop\.NET\静态类和静态方法\obj\Debug\静态类和静态方法.pdb

@@ -7,6 +7,5 @@ E:\C#补充学习\CSharpBasicLearn\值类型引用类型和字符串\obj\Debug\�
 C:\Users\Administrator\Desktop\.NET\值类型引用类型和字符串\bin\Debug\值类型引用类型和字符串.exe.config
 C:\Users\Administrator\Desktop\.NET\值类型引用类型和字符串\bin\Debug\值类型引用类型和字符串.exe
 C:\Users\Administrator\Desktop\.NET\值类型引用类型和字符串\bin\Debug\值类型引用类型和字符串.pdb
-C:\Users\Administrator\Desktop\.NET\值类型引用类型和字符串\obj\Debug\值类型引用类型.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\.NET\值类型引用类型和字符串\obj\Debug\值类型引用类型和字符串.exe
 C:\Users\Administrator\Desktop\.NET\值类型引用类型和字符串\obj\Debug\值类型引用类型和字符串.pdb

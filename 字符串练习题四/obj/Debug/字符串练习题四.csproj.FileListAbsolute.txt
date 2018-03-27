@@ -9,4 +9,3 @@ C:\Users\Administrator\Desktop\.NET\字符串练习题四\obj\Debug\字符串练
 C:\Users\Administrator\Desktop\.NET\字符串练习题四\obj\Debug\字符串练习题四.pdb
 C:\Users\Administrator\Desktop\.NET\字符串练习题四\bin\Debug\字符串练习题四.exe
 C:\Users\Administrator\Desktop\.NET\字符串练习题四\bin\Debug\字符串练习题四.pdb
-C:\Users\Administrator\Desktop\.NET\字符串练习题四\obj\Debug\字符串练习题四.csprojResolveAssemblyReference.cache

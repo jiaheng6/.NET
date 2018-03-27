@@ -7,6 +7,5 @@ E:\C#补充学习\CSharpBasicLearn\字符串练习题一\obj\Debug\字符串练�
 C:\Users\Administrator\Desktop\.NET\字符串练习题一\bin\Debug\字符串练习题一.exe.config
 C:\Users\Administrator\Desktop\.NET\字符串练习题一\bin\Debug\字符串练习题一.exe
 C:\Users\Administrator\Desktop\.NET\字符串练习题一\bin\Debug\字符串练习题一.pdb
-C:\Users\Administrator\Desktop\.NET\字符串练习题一\obj\Debug\字符串练习题一.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\.NET\字符串练习题一\obj\Debug\字符串练习题一.exe
 C:\Users\Administrator\Desktop\.NET\字符串练习题一\obj\Debug\字符串练习题一.pdb

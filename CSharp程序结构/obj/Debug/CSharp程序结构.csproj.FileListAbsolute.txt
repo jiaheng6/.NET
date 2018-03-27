@@ -7,6 +7,5 @@ C:\Users\Luocheng\Desktop\C#补充学习\CSharpBasicLearn\CSharp程序结构\obj
 C:\Users\Administrator\Desktop\.NET\CSharp程序结构\bin\Debug\CSharp程序结构.exe.config
 C:\Users\Administrator\Desktop\.NET\CSharp程序结构\bin\Debug\CSharp程序结构.exe
 C:\Users\Administrator\Desktop\.NET\CSharp程序结构\bin\Debug\CSharp程序结构.pdb
-C:\Users\Administrator\Desktop\.NET\CSharp程序结构\obj\Debug\CSharp程序结构.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\.NET\CSharp程序结构\obj\Debug\CSharp程序结构.exe
 C:\Users\Administrator\Desktop\.NET\CSharp程序结构\obj\Debug\CSharp程序结构.pdb

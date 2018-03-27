@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串练习题五", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "预处理", "预处理\预处理.csproj", "{8B9FA13F-90F0-4E7E-997F-935999548A9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "正则表达式", "正则表达式\正则表达式.csproj", "{4BAD9D99-640A-4CCF-B6FF-73E4D030EAF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8B9FA13F-90F0-4E7E-997F-935999548A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B9FA13F-90F0-4E7E-997F-935999548A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B9FA13F-90F0-4E7E-997F-935999548A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BAD9D99-640A-4CCF-B6FF-73E4D030EAF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAD9D99-640A-4CCF-B6FF-73E4D030EAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAD9D99-640A-4CCF-B6FF-73E4D030EAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAD9D99-640A-4CCF-B6FF-73E4D030EAF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

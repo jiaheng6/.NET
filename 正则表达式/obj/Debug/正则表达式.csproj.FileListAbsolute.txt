@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\.NET\正则表达式\bin\Debug\正则表达式.exe.config
+C:\Users\Administrator\Desktop\.NET\正则表达式\bin\Debug\正则表达式.exe
+C:\Users\Administrator\Desktop\.NET\正则表达式\bin\Debug\正则表达式.pdb
+C:\Users\Administrator\Desktop\.NET\正则表达式\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\.NET\正则表达式\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\.NET\正则表达式\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\.NET\正则表达式\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\.NET\正则表达式\obj\Debug\正则表达式.exe
+C:\Users\Administrator\Desktop\.NET\正则表达式\obj\Debug\正则表达式.pdb
