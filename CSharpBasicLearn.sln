@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBasicLearn", "CSharpBasicLearn\CSharpBasicLearn.csproj", "{D7499FD8-71F2-4650-9CDB-55743103E6E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp程序结构", "CSharp程序结构\CSharp程序结构.csproj", "{12E00BDF-54C8-4B98-90F8-BC7A1983700C}"
@@ -28,6 +30,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串练习题四", "字符串练习题四\字符串练习题四.csproj", "{15D2185B-7113-43E9-93B9-5783F808531B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串练习题五", "字符串练习题五\字符串练习题五.csproj", "{61F01938-D6B4-44B8-B77F-39BE6CB0009A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "预处理", "预处理\预处理.csproj", "{8B9FA13F-90F0-4E7E-997F-935999548A9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +95,10 @@ Global
 		{61F01938-D6B4-44B8-B77F-39BE6CB0009A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61F01938-D6B4-44B8-B77F-39BE6CB0009A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61F01938-D6B4-44B8-B77F-39BE6CB0009A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9FA13F-90F0-4E7E-997F-935999548A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9FA13F-90F0-4E7E-997F-935999548A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9FA13F-90F0-4E7E-997F-935999548A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9FA13F-90F0-4E7E-997F-935999548A9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
