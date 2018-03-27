@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\.NET\预处理\bin\Debug\预处理.exe.config
+C:\Users\Administrator\Desktop\.NET\预处理\bin\Debug\预处理.exe
+C:\Users\Administrator\Desktop\.NET\预处理\bin\Debug\预处理.pdb
+C:\Users\Administrator\Desktop\.NET\预处理\obj\Debug\预处理.exe
+C:\Users\Administrator\Desktop\.NET\预处理\obj\Debug\预处理.pdb

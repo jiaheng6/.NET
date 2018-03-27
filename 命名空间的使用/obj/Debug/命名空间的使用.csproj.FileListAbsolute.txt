@@ -4,3 +4,9 @@ C:\Users\Luocheng\Desktop\C#补充学习\CSharpBasicLearn\命名空间的使用\
 C:\Users\Luocheng\Desktop\C#补充学习\CSharpBasicLearn\命名空间的使用\obj\Debug\命名空间的使用.csprojResolveAssemblyReference.cache
 C:\Users\Luocheng\Desktop\C#补充学习\CSharpBasicLearn\命名空间的使用\obj\Debug\命名空间的使用.exe
 C:\Users\Luocheng\Desktop\C#补充学习\CSharpBasicLearn\命名空间的使用\obj\Debug\命名空间的使用.pdb
+C:\Users\Administrator\Desktop\.NET\命名空间的使用\bin\Debug\命名空间的使用.exe.config
+C:\Users\Administrator\Desktop\.NET\命名空间的使用\bin\Debug\命名空间的使用.exe
+C:\Users\Administrator\Desktop\.NET\命名空间的使用\bin\Debug\命名空间的使用.pdb
+C:\Users\Administrator\Desktop\.NET\命名空间的使用\obj\Debug\命名空间的使用.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\.NET\命名空间的使用\obj\Debug\命名空间的使用.exe
+C:\Users\Administrator\Desktop\.NET\命名空间的使用\obj\Debug\命名空间的使用.pdb

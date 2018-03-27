@@ -10,3 +10,9 @@ E:\C#补充学习\CSharpBasicLearn\动物类继承案例\bin\Debug\动物类继�
 E:\C#补充学习\CSharpBasicLearn\动物类继承案例\bin\Debug\动物类继承案例.pdb
 E:\C#补充学习\CSharpBasicLearn\动物类继承案例\obj\Debug\动物类继承案例.csprojResolveAssemblyReference.cache
 E:\C#补充学习\CSharpBasicLearn\动物类继承案例\obj\Debug\动物类继承案例.pdb
+C:\Users\Administrator\Desktop\.NET\动物类继承案例\bin\Debug\动物类继承案例.exe.config
+C:\Users\Administrator\Desktop\.NET\动物类继承案例\bin\Debug\动物类继承案例.exe
+C:\Users\Administrator\Desktop\.NET\动物类继承案例\bin\Debug\动物类继承案例.pdb
+C:\Users\Administrator\Desktop\.NET\动物类继承案例\obj\Debug\动物类继承案例.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\.NET\动物类继承案例\obj\Debug\动物类继承案例.exe
+C:\Users\Administrator\Desktop\.NET\动物类继承案例\obj\Debug\动物类继承案例.pdb

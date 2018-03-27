@@ -4,3 +4,9 @@ E:\C#补充学习\CSharpBasicLearn\字符串练习题二\bin\Debug\字符串练�
 E:\C#补充学习\CSharpBasicLearn\字符串练习题二\obj\Debug\字符串练习题二.exe
 E:\C#补充学习\CSharpBasicLearn\字符串练习题二\obj\Debug\字符串练习题二.pdb
 E:\C#补充学习\CSharpBasicLearn\字符串练习题二\obj\Debug\字符串练习题二.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\.NET\字符串练习题二\bin\Debug\字符串练习题二.exe.config
+C:\Users\Administrator\Desktop\.NET\字符串练习题二\bin\Debug\字符串练习题二.exe
+C:\Users\Administrator\Desktop\.NET\字符串练习题二\bin\Debug\字符串练习题二.pdb
+C:\Users\Administrator\Desktop\.NET\字符串练习题二\obj\Debug\字符串练习题二.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\.NET\字符串练习题二\obj\Debug\字符串练习题二.exe
+C:\Users\Administrator\Desktop\.NET\字符串练习题二\obj\Debug\字符串练习题二.pdb
