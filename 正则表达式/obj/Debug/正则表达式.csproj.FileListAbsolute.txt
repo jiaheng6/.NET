@@ -7,3 +7,4 @@ C:\Users\Administrator\Desktop\.NET\正则表达式\bin\Debug\EntityFramework.xm
 C:\Users\Administrator\Desktop\.NET\正则表达式\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Administrator\Desktop\.NET\正则表达式\obj\Debug\正则表达式.exe
 C:\Users\Administrator\Desktop\.NET\正则表达式\obj\Debug\正则表达式.pdb
+C:\Users\Administrator\Desktop\.NET\正则表达式\obj\Debug\正则表达式.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\.NET\Regex常用方法\bin\Debug\Regex常用方法.exe.config
+C:\Users\Administrator\Desktop\.NET\Regex常用方法\bin\Debug\Regex常用方法.exe
+C:\Users\Administrator\Desktop\.NET\Regex常用方法\bin\Debug\Regex常用方法.pdb
+C:\Users\Administrator\Desktop\.NET\Regex常用方法\obj\Debug\Regex常用方法.exe
+C:\Users\Administrator\Desktop\.NET\Regex常用方法\obj\Debug\Regex常用方法.pdb
